@@ -1,0 +1,105 @@
+MIT License
+
+Copyright (c) 2025 Intelligent Loan Approval System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 💰 FINANCIAL SERVICES DISCLAIMER
+
+**IMPORTANT: This software is for educational and research purposes only.**
+
+### Loan Decision Restrictions
+
+This loan status prediction system:
+
+- ❌ **IS NOT** a certified credit assessment tool
+- ❌ **IS NOT** financial or lending advice
+- ❌ **IS NOT** a substitute for licensed financial advisors or credit analysts
+- ❌ **HAS NOT** been approved by banking regulatory authorities
+- ❌ **SHOULD NOT** be used for making actual loan decisions
+
+### Professional Consultation
+
+Always consult qualified professionals, including:
+- Licensed loan officers
+- Credit analysts
+- Financial advisors
+- Banking compliance officers
+- Legal counsel
+
+For any decisions regarding loan approvals, credit assessments, or financial services.
+
+### Educational & Research Use
+
+This software is intended for:
+- ✅ Academic research
+- ✅ Educational purposes
+- ✅ Machine learning studies
+- ✅ Algorithm development
+- ✅ FinTech learning
+
+### Fair Lending & Compliance
+
+Users must understand:
+- Fair lending laws must be followed (Equal Credit Opportunity Act)
+- Discriminatory lending practices are illegal
+- Credit decisions must comply with banking regulations
+- Consumer protection laws apply to all lending activities
+- This tool does not ensure regulatory compliance
+
+### Liability Waiver
+
+The authors and contributors:
+- Disclaim all liability for financial decisions
+- Make no guarantees of credit assessment accuracy
+- Assume no responsibility for lending outcomes
+- Provide no warranty for loan approval accuracy
+
+**⚠️ REGULATORY NOTICE:** Lending decisions carry legal and financial implications. This tool provides estimates based on historical data and should not be the sole basis for credit decisions. Banking regulations, fair lending laws, and consumer protection statutes must be followed.
+
+---
+
+## 📋 Citation
+
+If you use this software in research, please cite:
+
+```
+@software{loan_prediction_2025,
+  author = {[Your Name]},
+  title = {Intelligent Loan Approval System: SVM-Based Loan Status Prediction},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/yourusername/loan-status-prediction-svm-ml}
+}
+```
+
+---
+
+## 📊 Dataset Attribution
+
+This project may use loan datasets from:
+- **Source:** Kaggle / Public Datasets
+- **Usage:** Educational and research purposes only
+- **Privacy:** All personal information must be anonymized
+
+---
+
+**For questions about banking regulations, fair lending laws, or credit compliance, please consult appropriate financial regulatory authorities and legal counsel.**
