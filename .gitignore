@@ -1,0 +1,121 @@
+# ========================================
+# INTELLIGENT LOAN APPROVAL - .gitignore
+# Protected Banking Data & System Files
+# ========================================
+
+# Banking & Financial Data Files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+data/
+datasets/
+loan_data/
+banking_records/
+credit_data/
+loan.csv
+
+# Trained Models
+*.pkl
+*.h5
+*.pt
+*.pth
+*.model
+models/
+checkpoints/
+saved_models/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+fintech_env/
+loan_ml/
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs & Reports
+*.log
+logs/
+*.out
+*.err
+approval_reports/
+credit_reports/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+config.ini
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Documentation Build
+docs/_build/
+site/
+
+# Banking API Keys
+api_keys.txt
+banking_credentials.json
+credit_api.txt
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+
+# System Files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Visualization Outputs
+plots/
+charts/
+*.png
+*.jpg
+*.pdf
+
+# Backup Files
+backups/
+*.backup
+
+# Sensitive Financial Data
+customer_data/
+personal_info/
+ssn_data/
+credit_scores/
+
+# API Credentials
+credentials.json
+secrets.yaml
