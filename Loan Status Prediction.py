@@ -18,7 +18,8 @@ from sklearn.metrics import accuracy_score
 
 # In[4]:
 
-
+# Data Collection and Processing
+#loading the dataset to pandas Dataframe
 #loading the dataset to pandas Dataframe
 loan_dataset = pd.read_csv('loan.csv')
 
