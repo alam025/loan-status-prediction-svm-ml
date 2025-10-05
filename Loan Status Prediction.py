@@ -33,7 +33,7 @@ loan_dataset.head()
 
 # In[6]:
 
-
+# Add shape analysis
 # number of rows and columns
 loan_dataset.shape
 
