@@ -47,7 +47,7 @@ loan_dataset.describe()
 
 # In[9]:
 
-
+# Add missing value check
 #number of missing values in  each column
 loan_dataset.isnull().sum()
 
