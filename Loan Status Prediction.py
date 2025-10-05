@@ -89,7 +89,7 @@ loan_dataset['Dependents'].value_counts()
 
 # In[16]:
 
-
+# Replace 3+ with 4
 #replacing the value of #+ to 4
 loan_dataset = loan_dataset.replace(to_replace='3+',value=4)
 
