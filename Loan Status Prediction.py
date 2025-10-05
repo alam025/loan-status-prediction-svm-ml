@@ -54,7 +54,7 @@ loan_dataset.isnull().sum()
 
 # In[10]:
 
-
+# Add dropna()
 # dropping the missing values
 loan_dataset = loan_dataset.dropna()
 
