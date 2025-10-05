@@ -68,7 +68,7 @@ loan_dataset.isnull().sum()
 
 # In[13]:
 
-
+# Add loan status encoding
 #label encoding
 loan_dataset.replace({"Loan_Status":{'N':0,'Y':1}},inplace=True)
 
