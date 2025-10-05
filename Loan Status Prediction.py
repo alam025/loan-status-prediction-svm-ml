@@ -82,7 +82,7 @@ loan_dataset.head()
 
 # In[15]:
 
-
+# Add dependents analysis
 #Dependent column values
 loan_dataset['Dependents'].value_counts()
 
