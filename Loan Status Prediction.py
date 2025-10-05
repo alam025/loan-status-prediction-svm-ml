@@ -26,7 +26,7 @@ loan_dataset = pd.read_csv('loan.csv')
 
 # In[5]:
 
-
+#printing the first five rows of the dataframe
 #printing the first five rows of the dataframe
 loan_dataset.head()
 
