@@ -167,7 +167,7 @@ print(X.shape,X_train.shape,X_test.shape)
 # Support Vector Machine Model
 
 # In[30]:
-
+# Add SVM initialization
 
 classifier = svm.SVC(kernel='linear')
 
