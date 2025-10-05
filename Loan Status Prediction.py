@@ -40,7 +40,7 @@ loan_dataset.shape
 
 # In[8]:
 
-
+# Add statistical analysis
 # statistical measures
 loan_dataset.describe()
 
