@@ -174,7 +174,7 @@ classifier = svm.SVC(kernel='linear')
 
 # In[31]:
 
-
+# Add model training
 #training the support Vector Machine Model 
 classifier.fit(X_train,Y_train)
 
