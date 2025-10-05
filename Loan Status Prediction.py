@@ -105,7 +105,7 @@ loan_dataset['Dependents'].value_counts()
 
 # In[18]:
 
-
+# Add education countplot
 #Education and loan status
 sns.countplot(x='Education',hue='Loan_Status',data=loan_dataset)
 
