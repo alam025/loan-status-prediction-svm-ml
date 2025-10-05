@@ -120,7 +120,7 @@ sns.countplot(x='Married',hue='Loan_Status',data=loan_dataset)
 
 # In[22]:
 
-
+# Add all categorical encoding
 #convert categorical columns to numerical values
 loan_dataset.replace({'Married':{'No':0,'Yes':1},'Gender':{'Male':1,'Female':0},
                       'Self_Employed':{'No':0,'Yes':1},'Property_Area':{'Rural':0,'Semiurban':1,'Urban':2},'Education':{'Graduate':1,'Not Graduate':0}},inplace=True)
