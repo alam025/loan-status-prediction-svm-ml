@@ -112,6 +112,7 @@ sns.countplot(x='Education',hue='Loan_Status',data=loan_dataset)
 
 # In[19]:
 
+# Add marital status countplot
 
 # marital status & Loan Status
 sns.countplot(x='Married',hue='Loan_Status',data=loan_dataset)
