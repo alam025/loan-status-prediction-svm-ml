@@ -198,7 +198,7 @@ print('Accuracy on training data: ',training_data_accuracy)
 
 # In[34]:
 
-
+# Add testing prediction
 #Accuracy score on test data
 
 X_test_prediction = classifier.predict(X_test)
