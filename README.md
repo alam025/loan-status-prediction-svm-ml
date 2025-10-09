@@ -554,5 +554,6 @@ FinTech Learning
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="60"/><br/>
 <b>API Docs</b>
 </td>
+
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Akin/Animated-
